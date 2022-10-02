@@ -1,4 +1,4 @@
-<h1 align="center">ADSocials</h1>
+<h1 align="center">ADSocials (1.12X - 1.19X)</h1>
 <p align="center">A social media plugin for your Minecraft server!.</p>
 
 <br />
@@ -9,6 +9,7 @@
 
 <h1>Functionalities!</h1>
 
+✔ multiple version support.<br>
 ✔ Fully customizable in config/messages.<br>
 ✔ Hex is Supported.<br>
 ✔ Open Source.<br>
