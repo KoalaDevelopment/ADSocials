@@ -1,0 +1,31 @@
+#Hex color is supported
+discord:
+  message:
+    - ""
+    - "&9&lDiscord"
+    - "&fdiscord.adsocials.net"
+    - ""
+instagram:
+  message:
+    - ""
+    - "&d&lInstagram"
+    - "&finstagram.adsocials.net"
+    - ""
+facebook:
+  message:
+    - ""
+    - "&1&lFacebook"
+    - "&ffacebook.adsocials.net"
+    - ""
+telegram:
+  message:
+    - ""
+    - "&b&lTelegram"
+    - "&ftelegram.adsocials.net"
+    - ""
+teamspeak:
+  message:
+    - ""
+    - "&7&lTeamSpeak"
+    - "&fteamspeak.adsocials.net"
+    - ""

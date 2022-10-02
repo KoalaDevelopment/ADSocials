@@ -1,0 +1,12 @@
+me\arsenicdevelopment\adsocials\utils\MessagesFile.class
+me\arsenicdevelopment\adsocials\commands\ADSocialsCMD.class
+me\arsenicdevelopment\adsocials\commands\InstagramCMD.class
+me\arsenicdevelopment\adsocials\utils\ConfigFile.class
+me\arsenicdevelopment\adsocials\utils\MinecraftVersion$V.class
+me\arsenicdevelopment\adsocials\commands\FacebookCMD.class
+me\arsenicdevelopment\adsocials\commands\TeamspeakCMD.class
+me\arsenicdevelopment\adsocials\commands\TelegramCMD.class
+me\arsenicdevelopment\adsocials\utils\MinecraftVersion.class
+me\arsenicdevelopment\adsocials\utils\ChatUtil.class
+me\arsenicdevelopment\adsocials\ADSocials.class
+me\arsenicdevelopment\adsocials\commands\DiscordCMD.class

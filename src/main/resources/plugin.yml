@@ -1,0 +1,49 @@
+name: ADSocials
+version: '${project.version}'
+main: me.arsenicdevelopment.adsocials.ADSocials
+api-version: 1.13
+authors: [ TryHardKoala ]
+commands:
+  discord:
+    description: Discord Command.
+    aliases:
+      - dc
+  facebook:
+    description: Facebook Command.
+    aliases:
+      - face
+  instagram:
+    description: Instagram Command.
+    aliases:
+      - insta
+  teamspeak:
+    description: Teamspeak Command.
+    aliases:
+      - ts
+  telegram:
+    description: Telegram Command.
+    aliases:
+      - tele
+
+  adsocials:
+    description: Main Command.
+    aliases:
+      - ads
+
+permissions:
+  adsocials.*:
+    children:
+      - adsocials.help
+      - adsocials.reload
+      - adsocials.info
+
+    description: Gives all perms to the plugin
+
+  adsocials.help:
+    description: For to get the help list
+
+  adsocials.reload:
+    description: For the reload of the fils
+
+  adsocials.info:
+    description: For information about the plugin
