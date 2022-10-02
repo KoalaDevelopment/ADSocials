@@ -30,6 +30,7 @@
 
 | Command           | Description                                       | permission                                       |
 |-------------------|---------------------------------------------------|--------------------------------------------------|
+| /adsocials        | all permission for the commands                   | `adsocials.*`                                    |
 | /adsocials help   | Get a list of all the possible commands           | `adsocials.help`                                 |
 | /adsocials info   | Get information about the plugin                  | `adsocials.info`                                 |
 | /adsocials reload | Get the relo9ad of the files                      | `adsocials.reload`                               |
